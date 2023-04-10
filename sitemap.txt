@@ -1,2 +1,3 @@
+http://example.com/link/index.html
 http://example.com/post/0.html
 http://example.com/
