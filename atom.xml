@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-08T09:31:35.088Z</updated>
+  <updated>2023-04-10T00:08:12.669Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://example.com/post/0.html"/>
     <id>http://example.com/post/0.html</id>
     <published>2023-04-08T00:31:12.766Z</published>
-    <updated>2023-04-08T09:31:35.088Z</updated>
+    <updated>2023-04-10T00:08:12.669Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="网站概述"><a href="#网站概述" class="headerlink" title="网站概述"></a>网站概述</h1><p>现在是2023年4月8日早上8点32，我坐在图书馆里打这些文字，昨天偶然的机会看到了搭建个人博客的文章，自己也尝试着用GitHub page搭了一下，猜了几个坑后终于成功了。暂时先用xixi-box.github.io这个GitHub给的域名，以后再考虑购买自定义的域名。</p><p>我会在这里写一下自己学习之路时的一些心得体会可能也会有一些生活随笔(如果不是太懒的话)，先写这些吧，以后想到了什么再更新</p>]]></content>
+    <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title=网站概述</span><br><span class="line">---</span><br></pre></td></tr></table></figure><h1 id="网站概述"><a href="#网站概述" class="headerlink" title="网站概述"></a>网站概述</h1><p>现在是2023年4月8日早上8点32，我坐在图书馆里打这些文字，昨天偶然的机会看到了搭建个人博客的文章，自己也尝试着用GitHub page搭了一下，猜了几个坑后终于成功了。暂时先用xixi-box.github.io这个GitHub给的域名，以后再考虑购买自定义的域名。</p><p>我会在这里写一下自己学习之路时的一些心得体会可能也会有一些生活随笔(如果不是太懒的话)，先写这些吧，以后想到了什么再更新</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;网站概述&quot;&gt;&lt;a href=&quot;#网站概述&quot; class=&quot;headerlink&quot; title=&quot;网站概述&quot;&gt;&lt;/a&gt;网站概述&lt;/h1&gt;&lt;p&gt;现在是2023年4月8日早上8点32，我坐在图书馆里打这些文字，昨天偶然的机会看到了搭建个人博客的文章，自己也尝试着用Git</summary>
+    <summary type="html">&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span c</summary>
       
     
     
