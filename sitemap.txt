@@ -1,2 +1,3 @@
+http://example.com/post/5969b4b6.html
 http://example.com/link/index.html
 http://example.com/
