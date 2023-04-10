@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-10T03:22:51.511Z</updated>
+  <updated>2023-04-10T08:20:45.263Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Redis学习</title>
+    <link href="http://example.com/post/8434e219.html"/>
+    <id>http://example.com/post/8434e219.html</id>
+    <published>2023-04-10T08:13:13.000Z</published>
+    <updated>2023-04-10T08:20:45.263Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>参考资料：</p><p>B站：</p><p>黑马程序员:</p><p>[<a href="https://www.bilibili.com/video/BV1cr4y1671t/?spm_id_from=333.999.0.0">黑马程序员Redis入门到实战教程，深度透析redis底层原理</a>]</p><p>极客时间：</p><p>蒋德钧:</p><p><a href="https://time.geekbang.org/column/intro/100056701?tab=catalog">核心技术与实战</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;参考资料：&lt;/p&gt;
+&lt;p&gt;B站：&lt;/p&gt;
+&lt;p&gt;黑马程序员:&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&quot;https://www.bilibili.com/video/BV1cr4y1671t/?spm_id_from=333.999.0.0&quot;&gt;黑马程序员Redis入门到实</summary>
+      
+    
+    
+    
+    
+    <category term="Redis" scheme="http://example.com/tags/Redis/"/>
+    
+  </entry>
   
   <entry>
     <title>网站概述</title>
