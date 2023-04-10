@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-10T15:03:37.347Z</updated>
+  <updated>2023-04-10T15:06:49.758Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/post/8434e219.html"/>
     <id>http://example.com/post/8434e219.html</id>
     <published>2023-04-10T08:13:13.000Z</published>
-    <updated>2023-04-10T15:03:37.347Z</updated>
+    <updated>2023-04-10T15:06:49.758Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Redis学习"><a href="#Redis学习" class="headerlink" title="Redis学习"></a>Redis学习</h1><hr><p>参考资料：</p><p>B站：</p><p>黑马程序员:</p><p><a href="https://www.bilibili.com/video/BV1cr4y1671t/?spm_id_from=333.999.0.0">黑马程序员Redis入门到实战教程，深度透析redis底层原理</a></p><p>极客时间：</p><p>蒋德钧:</p><p><a href="https://time.geekbang.org/column/intro/100056701?tab=catalog">核心技术与实战</a></p>]]></content>
     
@@ -36,6 +36,8 @@
       
     
     
+    
+    <category term="study" scheme="http://example.com/categories/study/"/>
     
     
     <category term="Redis" scheme="http://example.com/tags/Redis/"/>
