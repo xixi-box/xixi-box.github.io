@@ -1,3 +1,4 @@
+http://example.com/post/b8a7d02b.html
 http://example.com/post/8434e219.html
 http://example.com/about/index.html
 http://example.com/tags/index.html
@@ -8,3 +9,4 @@ http://example.com/post/5969b4b6.html
 http://example.com/
 http://example.com/tags/Redis/
 http://example.com/tags/about/
+http://example.com/tags/java-%E6%A1%86%E6%9E%B6%E7%BC%96%E7%A8%8B/
