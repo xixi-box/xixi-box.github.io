@@ -1,3 +1,4 @@
+http://example.com/post/1bd023c5.html
 http://example.com/post/8434e219.html
 http://example.com/about/index.html
 http://example.com/tags/index.html
@@ -8,4 +9,4 @@ http://example.com/post/5969b4b6.html
 http://example.com/
 http://example.com/tags/Redis/
 http://example.com/tags/about/
-http://example.com/categories/study/
+http://example.com/categories/%E5%AD%A6%E4%B9%A0/
