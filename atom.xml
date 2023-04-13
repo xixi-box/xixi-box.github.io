@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-13T11:57:55.595Z</updated>
+  <updated>2023-04-13T11:58:18.925Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/post/1bd023c5.html"/>
     <id>http://example.com/post/1bd023c5.html</id>
     <published>2023-04-13T11:56:58.000Z</published>
-    <updated>2023-04-13T11:57:55.595Z</updated>
+    <updated>2023-04-13T11:58:18.925Z</updated>
     
     
     
@@ -62,7 +62,7 @@
     <link href="http://example.com/post/5969b4b6.html"/>
     <id>http://example.com/post/5969b4b6.html</id>
     <published>2023-04-10T03:09:26.000Z</published>
-    <updated>2023-04-10T03:22:51.511Z</updated>
+    <updated>2023-04-13T12:01:39.671Z</updated>
     
     <content type="html"><![CDATA[<p>现在是2023年4月8日早上8点32，我坐在图书馆里打这些文字，昨天偶然的机会看到了搭建个人博客的文章，自己也尝试着用GitHub page搭了一下，踩了几个坑后终于成功了。暂时先用xixi-box.github.io这个GitHub给的域名，以后再考虑购买自定义的域名。</p><p>我会在这里写一下自己学习之路时的一些心得体会可能也会有一些生活随笔(如果不是太懒的话)，先写这些吧，以后想到了什么再更新</p>]]></content>
     
@@ -73,6 +73,8 @@
       
     
     
+    
+    <category term="网站相关" scheme="http://example.com/categories/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/"/>
     
     
     <category term="about" scheme="http://example.com/tags/about/"/>
