@@ -45,7 +45,7 @@
     <link href="http://example.com/post/a9cabbc.html"/>
     <id>http://example.com/post/a9cabbc.html</id>
     <published>2023-04-15T02:23:08.000Z</published>
-    <updated>2023-04-16T08:21:00.579Z</updated>
+    <updated>2023-04-16T08:24:29.469Z</updated>
     
     <content type="html"><![CDATA[<hr><p>主要参考资料：</p><p>B站：</p><p>​韩顺平–《一周学会MySQL》</p><p>​哈工大—战德臣数据库原理</p><p>小孩子4919–《MySQL是怎样运行的》以及其系列文章</p><p>亚伯拉罕-西尔搏沙茨等《数据库系统概念》</p><p>极客时间</p><p>​《MySQL必知必会》</p><p>​《SQL必知必会》</p>]]></content>
     
@@ -66,7 +66,9 @@
     <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="数据库 计算机通用基础" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80/"/>
+    <category term="数据库" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="计算机通用基础" scheme="http://example.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   

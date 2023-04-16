@@ -9,9 +9,10 @@ http://example.com/categories/index.html
 http://example.com/link/index.html
 http://example.com/study/index.html
 http://example.com/
-http://example.com/tags/Python/
 http://example.com/tags/about/
-http://example.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80/
 http://example.com/tags/Redis/
-http://example.com/categories/%E5%AD%A6%E4%B9%A0/
+http://example.com/tags/Python/
+http://example.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/
+http://example.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80/
 http://example.com/categories/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/
+http://example.com/categories/%E5%AD%A6%E4%B9%A0/
